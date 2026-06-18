@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jorge\\OneDrive\\MeuRepositorio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jorge\\OneDrive\\MeuRepositorio\\Exercicios em C\\passagemdevetor.cpp||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicios em C\\passagemdevetor.cpp||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jorge\\OneDrive\\MeuRepositorio\\Exercicios em C\\tamanhonome.cpp||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicios em C\\tamanhonome.cpp||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jorge\\OneDrive\\MeuRepositorio\\Exercicios em C\\fatorial.cpp||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicios em C\\fatorial.cpp||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tamanhonome.cpp",
+              "DocumentMoniker": "C:\\Users\\Jorge\\OneDrive\\MeuRepositorio\\Exercicios em C\\tamanhonome.cpp",
+              "RelativeDocumentMoniker": "Exercicios em C\\tamanhonome.cpp",
+              "ToolTip": "C:\\Users\\Jorge\\OneDrive\\MeuRepositorio\\Exercicios em C\\tamanhonome.cpp",
+              "RelativeToolTip": "Exercicios em C\\tamanhonome.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-13T18:33:31.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "passagemdevetor.cpp",
+              "DocumentMoniker": "C:\\Users\\Jorge\\OneDrive\\MeuRepositorio\\Exercicios em C\\passagemdevetor.cpp",
+              "RelativeDocumentMoniker": "Exercicios em C\\passagemdevetor.cpp",
+              "ToolTip": "C:\\Users\\Jorge\\OneDrive\\MeuRepositorio\\Exercicios em C\\passagemdevetor.cpp",
+              "RelativeToolTip": "Exercicios em C\\passagemdevetor.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-13T18:33:30.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fatorial.cpp",
+              "DocumentMoniker": "C:\\Users\\Jorge\\OneDrive\\MeuRepositorio\\Exercicios em C\\fatorial.cpp",
+              "RelativeDocumentMoniker": "Exercicios em C\\fatorial.cpp",
+              "ToolTip": "C:\\Users\\Jorge\\OneDrive\\MeuRepositorio\\Exercicios em C\\fatorial.cpp",
+              "RelativeToolTip": "Exercicios em C\\fatorial.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-13T18:33:24.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
