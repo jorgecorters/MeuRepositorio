@@ -20,7 +20,7 @@ int main(){
 		}
 	}
 	
-	printf("Primeiro vetor:\n ");
+	printf("Primeiro vetor:\n  ");
 	for(i = 0; i < 5; i++){
 	printf("\t%d", vet[i]);
 	
